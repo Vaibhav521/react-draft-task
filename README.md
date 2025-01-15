@@ -2,7 +2,9 @@
 
 Installation Steps
 
+```
 git clone https://github.com/Vaibhav521/react-draft-task.git
 cd react-draft-task
 npm i
 npm run dev 
+```
